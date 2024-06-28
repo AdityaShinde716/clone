@@ -1,4 +1,4 @@
-module.exports = {
+dule.exports = {
   env: {
     browser: true,
     es2021: true,
